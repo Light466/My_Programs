@@ -5,3 +5,4 @@ Experiment 2. Annual Rainfall prediction using Machine Learning and visualise th
 Experiment 3. Store Sales. Time Series Forecast & Visualization using Machine Learning.
 Experiment 4. Rainfall prediction using Regression
 Experiment 5. Rainfall prediction in Australia
+Experiment 6. Autism detection
