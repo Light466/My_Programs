@@ -6,3 +6,4 @@ Experiment 3. Store Sales. Time Series Forecast & Visualization using Machine Le
 Experiment 4. Rainfall prediction using Regression
 Experiment 5. Rainfall prediction in Australia
 Experiment 6. Autism detection
+Experiment 7. Cancer cell detection
