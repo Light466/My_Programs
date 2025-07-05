@@ -8,3 +8,4 @@ Experiment 5. Rainfall prediction in Australia
 Experiment 6. Autism detection
 Experiment 7. Cancer cell detection
 Experiment 8. Breast Cancer detection
+Experiment 9. Diabetes Prediction using ML model
