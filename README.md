@@ -9,3 +9,4 @@ Experiment 6. Autism detection
 Experiment 7. Cancer cell detection
 Experiment 8. Breast Cancer detection
 Experiment 9. Diabetes Prediction using ML model
+Experiment 10. Logistic Regression Classsification model to predict probable rainfall in any area. Design and error ananysis.
