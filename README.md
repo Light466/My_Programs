@@ -10,3 +10,5 @@ Experiment 7. Cancer cell detection
 Experiment 8. Breast Cancer detection
 Experiment 9. Diabetes Prediction using ML model
 Experiment 10. Logistic Regression Classsification model to predict probable rainfall in any area. Design and error ananysis.
+Experiment 11. Sales project Linear Regression.
+Experiment 12. Amazon sales prediction using Linear Regression analysis and machine Learning Model.
