@@ -13,3 +13,4 @@ Experiment 10. Logistic Regression Classsification model to predict probable rai
 Experiment 11. Sales project Linear Regression.
 Experiment 12. Amazon sales prediction using Linear Regression analysis and machine Learning Model.
 Experiment 13. Multiple Linear Regression using advertisement TV	radio	newspaper	sales
+Experiment 14. Multiple Linear Regression for Predicting "Petrol Consumption" 
