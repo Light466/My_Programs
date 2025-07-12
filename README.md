@@ -16,3 +16,4 @@ Experiment 13. Multiple Linear Regression using advertisement TV	radio	newspaper
 Experiment 14. Multiple Linear Regression for Predicting "Petrol Consumption" 
 Experiment 15. Logistic Handwritten digit recognition
 Experiment 16. Draw a ROC-AUC curve using Logistic Regression and classify the survived passangers from Titanic dataset.
+Experiment 17. Using Binary and Multiclass Classification of heart attack in youngsters of India
