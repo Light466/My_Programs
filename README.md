@@ -15,3 +15,4 @@ Experiment 12. Amazon sales prediction using Linear Regression analysis and mach
 Experiment 13. Multiple Linear Regression using advertisement TV	radio	newspaper	sales
 Experiment 14. Multiple Linear Regression for Predicting "Petrol Consumption" 
 Experiment 15. Logistic Handwritten digit recognition
+Experiment 16. Draw a ROC-AUC curve using Logistic Regression and classify the survived passangers from Titanic dataset.
