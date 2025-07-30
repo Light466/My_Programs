@@ -19,3 +19,4 @@ Experiment 16. Draw a ROC-AUC curve using Logistic Regression and classify the s
 Experiment 17. Using Binary and Multiclass Logistic Regression Classification classify the probability of heart attack in youngsters of India
 Experiment 18. Using the Binary Logistic classifier calculate probability of detecting Diabetis and calculate probability of existing diffrent Penguin species using Multiclass Logistic Regression.
 Experient 19. Classify Iris Dataset using SVM with different types of Kernel.
+Experiment20. Build a single layer perceptron using tensorflow in neural network
