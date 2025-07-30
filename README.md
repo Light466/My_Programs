@@ -18,5 +18,6 @@ Experiment 15. Logistic Handwritten digit recognition
 Experiment 16. Draw a ROC-AUC curve using Logistic Regression and classify the survived passangers from Titanic dataset.
 Experiment 17. Using Binary and Multiclass Logistic Regression Classification classify the probability of heart attack in youngsters of India
 Experiment 18. Using the Binary Logistic classifier calculate probability of detecting Diabetis and calculate probability of existing diffrent Penguin species using Multiclass Logistic Regression.
-Experient 19. Classify Iris Dataset using SVM with different types of Kernel.
+Experient 19. Classify Iris Dataset using SVM with different types of Kernels.
 Experiment20. Build a single layer perceptron using tensorflow in neural network
+Experiment 21. Show different activation functions using Neural Network.
