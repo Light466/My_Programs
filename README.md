@@ -22,3 +22,4 @@ Experient 19. Classify Iris Dataset using SVM with different types of Kernels.
 Experiment20. Build a single layer perceptron using tensorflow in neural network
 Experiment 21. Show different activation functions using Neural Network.
 Experiment 22. Implement Logistic Regression by using a model built of ANN (Artificial Neural Network).
+Experiment 23. Implement SVM, Decision tree and Random forest classifier on Iris dataset
