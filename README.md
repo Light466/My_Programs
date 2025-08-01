@@ -23,3 +23,5 @@ Experiment20. Build a single layer perceptron using tensorflow in neural network
 Experiment 21. Show different activation functions using Neural Network.
 Experiment 22. Implement Logistic Regression by using a model built of ANN (Artificial Neural Network).
 Experiment 23. Implement SVM, Decision tree and Random forest classifier on Iris dataset
+Experiment 24. Use the machine learning classifiers SVM, Random Forest, Decision Tree and Naive Bayes using same training and testing datasets in python and calculate accuracy of each of them separately.
+Experiment 25. Build an user operated box using symptoms to identify diseases using different classifiers.
