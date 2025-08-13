@@ -27,3 +27,4 @@ Experiment 24. Use the machine learning classifiers SVM, Random Forest, Decision
 Experiment 25. Build an user operated box using symptoms to identify diseases using different classifiers.
 Experiment 26. Build the logic gates using single layer perceptron in ANN
 Experiment 27. Build a Neural Network model from scratch using PyTorch
+Experiment 28. Build a model to perform employee churn prediction using Multi-Layer Perceptron in Neural Network using HR_comma_sep.csv dataset
