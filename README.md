@@ -26,3 +26,4 @@ Experiment 23. Implement SVM, Decision tree and Random forest classifier on Iris
 Experiment 24. Use the machine learning classifiers SVM, Random Forest, Decision Tree and Naive Bayes using same training and testing datasets in python and calculate accuracy of each of them separately.
 Experiment 25. Build an user operated box using symptoms to identify diseases using different classifiers.
 Experiment 26. Build the logic gates using single layer perceptron in ANN
+Experiment 27. Build a Neural Network model from scratch using PyTorch
